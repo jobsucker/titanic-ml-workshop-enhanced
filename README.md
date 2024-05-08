@@ -14,3 +14,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 * Python 3.7+
+* Jupyter Notebook (Use of [Anaconda](https://www.anaconda.com/download/) is suggested)
+
+### Download/Clone repository
+
+Download or clone this repository to your machine. It includes a jupyter notebook and the Titanic dataset.

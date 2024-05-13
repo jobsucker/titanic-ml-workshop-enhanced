@@ -19,3 +19,15 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Download/Clone repository
 
 Download or clone this repository to your machine. It includes a jupyter notebook and the Titanic dataset.
+
+### Kickstart your own `Jupyter Notebook`
+
+**Windows**
+
+In the project folder with all the files from this repository, launch cmd and execute the command `jupyter notebook`. Here's what your cmd should look like:
+
+![Image of cmd running Jupyter](https://i.imgur.com/imfl23W.png)
+
+You're now all set! A new tab will pop up on your browser running Jupyter.
+
+## Maintainer
